@@ -1,4 +1,5 @@
 # semana_intensivo_python
+Em andamento.
 
 Intensivão de Python [Aula 1] 🚀
 
@@ -32,6 +33,9 @@ script(4/4)
 ![aula1-4py](https://user-images.githubusercontent.com/92833379/149980481-abba5469-7e64-4c87-9d51-55ca63d5d3ec.png)
 
 
+
+
+-----------------------------------------------------------------------------
 
 
 Intensivão de Python [Aula 2] 🚀
