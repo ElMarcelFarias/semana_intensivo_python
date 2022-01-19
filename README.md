@@ -1,5 +1,5 @@
 # semana_intensivo_python
-Em andamento.
+
 
 Intensivão de Python [Aula 1] 🚀
 
