@@ -89,5 +89,37 @@ Primeiros gráficos
 
 
 
+Intensivão de Python [Aula 3] 🚀
+
+Aprendendo Automação Web, Web-Scraping, Análise de Dados, Utilização do Selenium, biblioteca pandas e exportar uma nova base de dados.
+
+Professor Lira da Hashtag
+
+
+![fotoaula3](https://user-images.githubusercontent.com/92833379/150059505-5158db3e-337a-4f71-be1c-385aabf7966e.jpeg)
+
+
+script(1/4)
+
+![aula3](https://user-images.githubusercontent.com/92833379/150059527-8dd519fa-ab12-446e-bd94-a77482cc9b06.png)
+
+
+script(2/4)
+
+![aula3-1](https://user-images.githubusercontent.com/92833379/150059545-674ff9fd-c9a8-46d0-b43e-17b411181f0e.png)
+
+
+script(3/4)
+
+![aula3-2](https://user-images.githubusercontent.com/92833379/150059558-f1464529-e836-4a2d-b69c-bb9d263e2dc6.png)
+
+
+script(4/4)
+
+![aula3-3](https://user-images.githubusercontent.com/92833379/150059572-aec2a9ca-fa65-4204-87d5-74f71c7748b8.png)
+
+
+Muito obrigado! 😊
+
 
 
