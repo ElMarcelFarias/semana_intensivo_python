@@ -87,6 +87,8 @@ Primeiros gráficos
 
 ![grafico_3](https://user-images.githubusercontent.com/92833379/149980805-af786d3c-1b98-47b8-9df7-b988b478d6e2.png)
 
+-----------------------------------------------------------------------------
+
 
 
 Intensivão de Python [Aula 3] 🚀
